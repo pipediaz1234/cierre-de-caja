@@ -1,4 +1,4 @@
-<img width="340" height="683" alt="image" src="https://github.com/user-attachments/assets/6e397c8f-aeb3-4255-a750-7aebd08f1ece" /># 🍬 Cierre de Caja – Mis Dulces
+### 🍬 Cierre de Caja – Mis Dulces
 
 **Cierre de Caja – Mis Dulces** es una aplicación web profesional diseñada para gestionar el cierre diario de caja en un negocio minorista.
 Permite registrar ventas por diferentes medios de pago, calcular totales, contar billetes de efectivo, generar reportes visuales y enviar el resumen automáticamente por WhatsApp.
