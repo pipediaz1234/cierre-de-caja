@@ -59,8 +59,12 @@ Esta herramienta está pensada para pequeños y medianos negocios, como tiendas 
 
 **Andrés Felipe Díaz Campos**
 🎓 Estudiante de Ingeniería de Sistemas – Universidad de Cundinamarca
+
 💼 Enfoque en desarrollo web, análisis de datos y redes
-🌐 [GitHub](https://github.com/pipediaz1234) • [LinkedIn](https://linkedin.com/in/andres-felipe-diaz-campos-398245207)
+
+🌐 [GitHub](https://github.com/pipediaz1234)
+
+• [LinkedIn](https://linkedin.com/in/andres-felipe-diaz-campos-398245207)
 
 ---
 
